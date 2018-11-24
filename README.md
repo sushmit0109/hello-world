@@ -1,7 +1,7 @@
 # hello-world
 A desolate garden
 Where the slaves exist to assist
-Amd to merge with the master when they are complete
+And to merge with the master when they are complete
 The ancient monotheistic religion manifests itself again
 In this wreched graveyard of GITHUB.
 
